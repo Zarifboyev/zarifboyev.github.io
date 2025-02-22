@@ -14,6 +14,7 @@ It comes with a basic theme structure and configuration. GitHub action has been 
 2. Once the repository is created, create a GitHub codespace associated with it.
 ![Create codespace](https://user-images.githubusercontent.com/5889006/156916672-43b7b6e9-4ffb-4704-b4ba-d5ca40ffcae7.png)
 
+hugo mod get -u github.com/CaiJimmy/hugo-theme-stack/v3
 3. And voila! You're ready to go. The codespace has been configured with the latest version of Hugo extended, just run `hugo server` in the terminal and see your new site in action.
 
 4. Check `config` folder for the configuration files. You can edit them to suit your needs. Make sure to update the `baseurl` property in `config/_default/config.toml` to your site's URL.
