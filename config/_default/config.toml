@@ -1,6 +1,6 @@
 # Change baseurl before deploy
 baseurl = "https://zarifboyev.space"
-languageCode = "en-us"
+languageCode = "en"
 title = "Welcome to Zarifboyev's blog"
 
 # Theme i18n support
